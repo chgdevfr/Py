@@ -1,8 +1,8 @@
 ﻿import string
 #Développement par Charles-Henry de Guillebon - Esri France
-#Mars 2020 (fichier SDIS à formater...)
+#Mars 2020 (fichier CSV à transformer)
 #Objectif : passer des données en colonne dans une ligne par date
-#En entrée, fournir le nom du fichier
+#En entrée, fournir le nom du fichier sans son extension CSV
 version = "1.0.1" #correction 26/3/20 : ne pas écrire quand il n'y a pas d'intervention, 0 ou nul
 #version = "1.0.0" #1ère version du 26/03/2020
 
